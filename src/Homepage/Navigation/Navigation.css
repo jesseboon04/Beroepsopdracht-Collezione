@@ -1,0 +1,43 @@
+.navigation__header{
+    margin: 0;
+    padding-top: 0;
+
+}
+
+
+
+.navigation__ul{
+    display: flex;
+    background: red;
+    padding: 2rem;
+    gap: 12rem;
+    font-size: 2rem;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.navigation__li{
+    list-style: none;
+    
+    
+}
+.navigation__li:active{
+    border-bottom:  1px inset blue;
+
+
+}
+.navigation__button{
+    border: none;
+    color: rgb(255, 255, 255);
+    background: rgb(48, 88, 162);
+    padding: 0.8rem 2rem;
+    border-radius: 0.6rem;
+    font-size: 2rem;
+}
+.navigation__button:hover{
+    background: rgb(32, 65, 125);
+}
+.navigation__button:active{
+  
+}
