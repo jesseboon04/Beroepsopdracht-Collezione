@@ -1,0 +1,9 @@
+.loginStyle{
+    width: 20rem;
+    height: 30rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: red;
+    position: center;
+}
