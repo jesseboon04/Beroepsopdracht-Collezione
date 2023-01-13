@@ -1,0 +1,18 @@
+.style__cards{
+    
+   
+}
+.prijs_card{
+    padding: 2rem;
+
+    border: 1px solid grey;
+    border-radius: 2rem;
+    gap: 2rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center
+    
+    ;
+}

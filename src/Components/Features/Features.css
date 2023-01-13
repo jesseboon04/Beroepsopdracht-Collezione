@@ -1,0 +1,34 @@
+.card{
+    width: 30rem;
+    padding: 5rem;
+    
+   
+}
+.card__figure{
+    height: 70%;
+    width: 100%;
+    border-top-left-radius: 0.8rem;
+    border-top-right-radius: 0.8rem;
+}
+.card__section{
+    height: 30%;
+    border-bottom-left-radius: 0.8rem;
+    border-bottom-right-radius: 0.8rem;
+  
+    display: flex;
+    flex-direction: column;
+    font-size: 1.2rem;
+   
+}
+.card__figure img {
+    width: 100%;
+    height: 100%;
+    background-position: center;
+    object-fit: cover;
+    border-top-left-radius: 0.8rem;
+    border-top-right-radius: 0.8rem;
+}
+.text__Features{
+    font-size: 1.4rem;
+}
+

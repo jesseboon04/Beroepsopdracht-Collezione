@@ -12,7 +12,7 @@ const Navigation = () => {
                         <li className="navigation__li">Features</li>
                         <li className="navigation__li"> Prijs</li>
                         <li className="navigation__li">Contact</li>
-                        <button className="navigation__button">Login</button>
+                        <button className="navigation__button" path="/#">Login</button>
                     </ul>
                 </section>
             </header>

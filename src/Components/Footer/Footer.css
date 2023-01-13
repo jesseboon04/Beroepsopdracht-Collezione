@@ -1,12 +1,5 @@
-.navigation__header{
-    margin: 0;
-    padding-top: 0;
 
-}
-
-
-
-.navigation__ul{
+.footer__ul{
     display: flex;
 
     padding: 2rem;
@@ -17,17 +10,20 @@
     
 }
 
-.navigation__li{
+.footer__li{
     list-style: none;
     
     
 }
-.navigation__li:active{
+.footer__li:hover{
+    text-decoration: underline
+    ;}
+.footer__li:active{
     border-bottom:  1px inset blue;
 
 
 }
-.navigation__button{
+.footer__button{
     border: none;
     color: rgb(255, 255, 255);
     background: rgb(48, 88, 162);
@@ -35,9 +31,14 @@
     border-radius: 0.6rem;
     font-size: 2rem;
 }
-.navigation__button:hover{
+.footer__button:hover{
     background: rgb(32, 65, 125);
 }
 .navigation__button:active{
   
+}
+.footer__top{
+   background: #f3f2f1;;
+    margin-top: 3rem;
+    padding: 3rem;
 }

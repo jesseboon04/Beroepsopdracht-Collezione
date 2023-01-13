@@ -1,0 +1,41 @@
+.Style__form{
+    display: flex;
+    flex-direction: column;
+ justify-content: flex-start;
+   padding-left: 6rem;
+   padding-top: 3rem;
+    width: 55rem;
+    font-size: 2rem;
+    gap: 1.2rem;
+}
+.Contact__Title{
+    font-size: 4rem;
+    padding-left: 6rem;
+}
+#Input_form{
+    color: rgb(128, 128, 128);
+    border: 1px solid blue;
+    padding: 2rem;
+    font-size: 1.5rem;
+}
+#Input_formText{
+    height: 15rem;
+    color: rgb(128, 128, 128);
+    border: 1px solid blue;
+    padding: 2rem;
+    font-size: 1.5rem;
+}
+.Button__form{
+    display: flex;
+    border: 1px solid yellow;
+    margin-top: 2rem;
+        justify-content: center;
+        border: none;
+        color: rgb(255, 255, 255);
+        background: rgb(48, 88, 162);
+        padding: 0.8rem 2rem;
+        border-radius: 0.6rem;
+        font-size: 2rem;
+        width: 12rem;
+    
+}
