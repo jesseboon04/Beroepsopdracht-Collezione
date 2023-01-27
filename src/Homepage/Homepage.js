@@ -18,23 +18,23 @@ const Homepage = (props) => {
           <div class="section__wrapper">
             <Features
               image="truck.png"
-              h2="Fast delivery"
-              p="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore"
+              h2="Gratis en snelle levering"
+              p="In Nederland gratis en levering binnen een paar dagen."
             />
             <Features
               image="safety-111.png"
-              h2="Safety"
-              p="Safety contact with Companies, Brands and Persons"
+              h2="Veilig"
+              p="Veilig en eerlijk bedrijf willen het beste voor de klant."
             />
             <Features
-              image="truck.png"
-              h2="Fast delivery"
-              p="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore"
+              image="phone.webp"
+              h2="Klanten Service"
+              p="Hebben een klanten service 9:00 t/m 20:00."
             />
             <Features
               image="vier.png"
-              h2="Nummer 1 vacaturensite"
-              p="Nummer 1 vacaturensite met elke maand meer dan 300 miljoen gebruikers."
+              h2="Nummer 1 sportwinkel"
+              p="De beste sportwinkel van nederland met het beste assortiment."
             />
           </div>
         </FeaturesSection>

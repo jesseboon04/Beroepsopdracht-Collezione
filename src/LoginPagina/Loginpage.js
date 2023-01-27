@@ -1,6 +1,6 @@
 import "./LoginPage.css"
 import Navigation from "../Homepage/Navigation/Navigation";
-import Loginsection from "../Components/loginSection/Loginssection";
+import Loginsection from "../Components/loginSection/Loginsection";
 
 const login = () => {
   return (

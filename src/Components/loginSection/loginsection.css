@@ -1,3 +1,30 @@
-.test{
-    color: black;
+.test {
+/* 
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  flex-wrap: wrap; */
+
+  
 }
+.title-inlog{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+    font-size: 2rem;
+    gap: 2rem;
+
+
+}
+.forms-inlog{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+    font-size: 2rem;
+ 
+}
+
