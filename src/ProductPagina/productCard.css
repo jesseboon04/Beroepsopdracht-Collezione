@@ -1,0 +1,25 @@
+.image-product  {
+    width: 300px;
+    height: 300px;
+    
+}
+
+.product-card   {
+    font-size: 16px;
+    border: 2px solid #d4d2d0;
+    width: fit-content;
+    border-radius: 8px;
+    padding: 10px;
+    display: block;
+    padding-bottom: 10px;
+}
+.product-shirt  {
+    
+}
+
+.card1{
+    padding: 10px;
+    display: -webkit-inline-box;
+    text-align: center;
+    color: rgb(37, 87, 167);
+}

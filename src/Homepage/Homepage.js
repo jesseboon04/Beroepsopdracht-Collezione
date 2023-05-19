@@ -14,7 +14,7 @@ const Homepage = (props) => {
    
         <Navigation />
         <ContentHome />
-        <FeaturesSection titleSection="Choise of sport">
+        <FeaturesSection titleSection="Eigenschappen">
           <div class="section__wrapper">
             <Features
               image="truck.png"

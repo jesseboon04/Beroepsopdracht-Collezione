@@ -1,0 +1,11 @@
+.content-products  {
+    padding-top: 20px;
+    padding-bottom: 10px;
+    columns: 3;
+}
+
+.titel-producten    {
+    font-size: 30px;
+    text-align: center;
+    color: rgb(37, 87, 167);
+}
